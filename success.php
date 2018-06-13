@@ -6,7 +6,7 @@ $txnid=$_POST["txnid"];
 $posted_hash=$_POST["hash"];
 $key=$_POST["key"];
 $productinfo=$_POST["productinfo"];
-$email=$_POST["email"];
+$email=$_POST["email"];//enter your email
 $salt="";
 
 // Salt should be same Post Request 
