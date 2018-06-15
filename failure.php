@@ -3,7 +3,7 @@ $status=$_POST["status"];
 $firstname=$_POST["firstname"];
 $amount=$_POST["amount"];
 $txnid=$_POST["txnid"];
-
+//new changes
 $posted_hash=$_POST["hash"];
 $key=$_POST["key"];
 $productinfo=$_POST["productinfo"];
